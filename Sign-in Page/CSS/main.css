@@ -1,0 +1,37 @@
+body {
+    background: brown;
+    border-color: darkmagenta; 
+    }
+   
+  
+  #signIn {
+  
+    background: gray;
+    font-family: 'Courier New', Courier, monospace;
+    font: 100% ;
+    color: red;
+  }
+  
+  .signInButton {
+    background: aqua;
+  }
+  
+  .thisIsWhy {
+  background: pink;
+  border-style:solid;
+  
+  }
+  
+  #reasonsWhy {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: 100 times;
+    color: orange;
+    border-style: dotted;
+    border-color:white ;
+  } 
+    nav {
+      border:solid;
+      font:100%
+      }
+  
+   
